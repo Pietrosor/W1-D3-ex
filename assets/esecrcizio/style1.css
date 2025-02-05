@@ -1,0 +1,27 @@
+header{
+    text-align: center;
+    background-color: rgba(177, 177, 165, 0);
+
+}
+header img{
+    width: 250px;
+}
+header h3{
+    background-color: aqua;
+}
+img{ width: 100%;}
+main{
+    width: 50%;
+    margin-right:auto;
+    margin-left: auto;
+}
+main h3{color: grey;
+    font-size: large;
+    text-align: center;
+    
+}
+nav{
+    color: orange;
+    margin: orange;
+    margin-right: 0,1cm;
+}
